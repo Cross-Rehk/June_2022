@@ -24,7 +24,7 @@
 ![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_7/19.png)
 ![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_7/20.png)
 
-# Day_8 Cred
+# Day_8 Cred Website
 ![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_9/22.png)
 ![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_9/23.png)
 
