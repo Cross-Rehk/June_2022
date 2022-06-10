@@ -24,12 +24,12 @@
 ![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_7/19.png)
 ![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_7/20.png)
 
-# Day_8 Cred Website
-![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_8/21.png)
-
-# Day_9 Twitter
+# Day_8 Cred
 ![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_9/22.png)
 ![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_9/23.png)
+
+# Day_9 Twitter
+![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_8/21.png)
 
 # Day_10 Image Gallery
 ![App Screenshot](https://raw.githubusercontent.com/Cross-Rehk/June_2022/main/Screenshots/Day_10/25.png)
